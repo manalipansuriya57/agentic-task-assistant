@@ -3,3 +3,4 @@ console.log(`Evaluation score: ${successCount} / ${totalTasks} tasks processed.`
 console.log(`Evaluation score: ${successCount} / ${totalTasks} tasks processed.`);
 export interface TaskAgentConfig { maxSteps: number; fallbackModel: string; }
 async function executeSearch(query: string) { return [{ url: "https://api.internal", snippet: "Match" }]; }
+async function executeSearch(query: string) { return [{ url: "https://api.internal", snippet: "Match" }]; }
