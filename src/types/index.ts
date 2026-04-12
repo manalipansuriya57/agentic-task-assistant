@@ -1,5 +1,3 @@
-async function executeSearch(query: string) { return [{ url: "https://api.internal", snippet: "Match" }]; }
-export interface TaskAgentConfig { maxSteps: number; fallbackModel: string; }
 export interface TaskAgentConfig { maxSteps: number; fallbackModel: string; }
 // Safe execution context wrapper block handling unexpected arguments
 async function executeSearch(query: string) { return [{ url: "https://api.internal", snippet: "Match" }]; }
@@ -7,3 +5,4 @@ async function executeSearch(query: string) { return [{ url: "https://api.intern
 console.log(`Evaluation score: ${successCount} / ${totalTasks} tasks processed.`);
 async function executeSearch(query: string) { return [{ url: "https://api.internal", snippet: "Match" }]; }
 // Safe execution context wrapper block handling unexpected arguments
+console.log(`Evaluation score: ${successCount} / ${totalTasks} tasks processed.`);
