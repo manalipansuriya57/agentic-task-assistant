@@ -1,0 +1,1594 @@
+[
+  {
+    "id": "t001",
+    "instruction": "Find the refund policy in the documentation (variant 1).",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "refund"
+      ]
+    },
+    "successKeywords": [
+      "refund"
+    ]
+  },
+  {
+    "id": "t002",
+    "instruction": "Find the refund policy in the documentation (variant 2).",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "refund"
+      ]
+    },
+    "successKeywords": [
+      "refund"
+    ]
+  },
+  {
+    "id": "t003",
+    "instruction": "Find the refund policy in the documentation (variant 3).",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "refund"
+      ]
+    },
+    "successKeywords": [
+      "refund"
+    ]
+  },
+  {
+    "id": "t004",
+    "instruction": "Find the refund policy in the documentation (variant 4).",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "refund"
+      ]
+    },
+    "successKeywords": [
+      "refund"
+    ]
+  },
+  {
+    "id": "t005",
+    "instruction": "Find the refund policy in the documentation (variant 5).",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "refund"
+      ]
+    },
+    "successKeywords": [
+      "refund"
+    ]
+  },
+  {
+    "id": "t006",
+    "instruction": "Find the refund policy in the documentation (variant 6).",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "refund"
+      ]
+    },
+    "successKeywords": [
+      "refund"
+    ]
+  },
+  {
+    "id": "t007",
+    "instruction": "Find the refund policy in the documentation (variant 7).",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "refund"
+      ]
+    },
+    "successKeywords": [
+      "refund"
+    ]
+  },
+  {
+    "id": "t008",
+    "instruction": "Find the refund policy in the documentation (variant 8).",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "refund"
+      ]
+    },
+    "successKeywords": [
+      "refund"
+    ]
+  },
+  {
+    "id": "t009",
+    "instruction": "Find the pgvector policy in the documentation (variant 1).",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "pgvector"
+      ]
+    },
+    "successKeywords": [
+      "pgvector"
+    ]
+  },
+  {
+    "id": "t010",
+    "instruction": "Find the pgvector policy in the documentation (variant 2).",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "pgvector"
+      ]
+    },
+    "successKeywords": [
+      "pgvector"
+    ]
+  },
+  {
+    "id": "t011",
+    "instruction": "Find the pgvector policy in the documentation (variant 3).",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "pgvector"
+      ]
+    },
+    "successKeywords": [
+      "pgvector"
+    ]
+  },
+  {
+    "id": "t012",
+    "instruction": "Find the pgvector policy in the documentation (variant 4).",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "pgvector"
+      ]
+    },
+    "successKeywords": [
+      "pgvector"
+    ]
+  },
+  {
+    "id": "t013",
+    "instruction": "Find the pgvector policy in the documentation (variant 5).",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "pgvector"
+      ]
+    },
+    "successKeywords": [
+      "pgvector"
+    ]
+  },
+  {
+    "id": "t014",
+    "instruction": "Find the pgvector policy in the documentation (variant 6).",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "pgvector"
+      ]
+    },
+    "successKeywords": [
+      "pgvector"
+    ]
+  },
+  {
+    "id": "t015",
+    "instruction": "Find the pgvector policy in the documentation (variant 7).",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "pgvector"
+      ]
+    },
+    "successKeywords": [
+      "pgvector"
+    ]
+  },
+  {
+    "id": "t016",
+    "instruction": "Find the pgvector policy in the documentation (variant 8).",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "pgvector"
+      ]
+    },
+    "successKeywords": [
+      "pgvector"
+    ]
+  },
+  {
+    "id": "t017",
+    "instruction": "Find the retry policy in the documentation (variant 1).",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "retries"
+      ]
+    },
+    "successKeywords": [
+      "3 times"
+    ]
+  },
+  {
+    "id": "t018",
+    "instruction": "Find the retry policy in the documentation (variant 2).",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "retries"
+      ]
+    },
+    "successKeywords": [
+      "3 times"
+    ]
+  },
+  {
+    "id": "t019",
+    "instruction": "Find the retry policy in the documentation (variant 3).",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "retries"
+      ]
+    },
+    "successKeywords": [
+      "3 times"
+    ]
+  },
+  {
+    "id": "t020",
+    "instruction": "Find the retry policy in the documentation (variant 4).",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "retries"
+      ]
+    },
+    "successKeywords": [
+      "3 times"
+    ]
+  },
+  {
+    "id": "t021",
+    "instruction": "Find the retry policy in the documentation (variant 5).",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "retries"
+      ]
+    },
+    "successKeywords": [
+      "3 times"
+    ]
+  },
+  {
+    "id": "t022",
+    "instruction": "Find the retry policy in the documentation (variant 6).",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "retries"
+      ]
+    },
+    "successKeywords": [
+      "3 times"
+    ]
+  },
+  {
+    "id": "t023",
+    "instruction": "Find the retry policy in the documentation (variant 7).",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "retries"
+      ]
+    },
+    "successKeywords": [
+      "3 times"
+    ]
+  },
+  {
+    "id": "t024",
+    "instruction": "Find the retry policy in the documentation (variant 8).",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "retries"
+      ]
+    },
+    "successKeywords": [
+      "3 times"
+    ]
+  },
+  {
+    "id": "t025",
+    "instruction": "Find the sla policy in the documentation (variant 1).",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "sla"
+      ]
+    },
+    "successKeywords": [
+      "sla"
+    ]
+  },
+  {
+    "id": "t026",
+    "instruction": "Find the sla policy in the documentation (variant 2).",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "sla"
+      ]
+    },
+    "successKeywords": [
+      "sla"
+    ]
+  },
+  {
+    "id": "t027",
+    "instruction": "Find the sla policy in the documentation (variant 3).",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "sla"
+      ]
+    },
+    "successKeywords": [
+      "sla"
+    ]
+  },
+  {
+    "id": "t028",
+    "instruction": "Find the sla policy in the documentation (variant 4).",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "sla"
+      ]
+    },
+    "successKeywords": [
+      "sla"
+    ]
+  },
+  {
+    "id": "t029",
+    "instruction": "Find the sla policy in the documentation (variant 5).",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "sla"
+      ]
+    },
+    "successKeywords": [
+      "sla"
+    ]
+  },
+  {
+    "id": "t030",
+    "instruction": "Find the sla policy in the documentation (variant 6).",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "sla"
+      ]
+    },
+    "successKeywords": [
+      "sla"
+    ]
+  },
+  {
+    "id": "t031",
+    "instruction": "Find the sla policy in the documentation (variant 7).",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "sla"
+      ]
+    },
+    "successKeywords": [
+      "sla"
+    ]
+  },
+  {
+    "id": "t032",
+    "instruction": "Find the sla policy in the documentation (variant 8).",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "sla"
+      ]
+    },
+    "successKeywords": [
+      "sla"
+    ]
+  },
+  {
+    "id": "t033",
+    "instruction": "Lookup users u_100 in the database (case 1).",
+    "expectedTools": [
+      "query_db"
+    ],
+    "mustIncludeArgs": {
+      "query_db": [
+        "users",
+        "u_100"
+      ]
+    }
+  },
+  {
+    "id": "t034",
+    "instruction": "Lookup users u_100 in the database (case 2).",
+    "expectedTools": [
+      "query_db"
+    ],
+    "mustIncludeArgs": {
+      "query_db": [
+        "users",
+        "u_100"
+      ]
+    }
+  },
+  {
+    "id": "t035",
+    "instruction": "Lookup users u_100 in the database (case 3).",
+    "expectedTools": [
+      "query_db"
+    ],
+    "mustIncludeArgs": {
+      "query_db": [
+        "users",
+        "u_100"
+      ]
+    }
+  },
+  {
+    "id": "t036",
+    "instruction": "Lookup users u_100 in the database (case 4).",
+    "expectedTools": [
+      "query_db"
+    ],
+    "mustIncludeArgs": {
+      "query_db": [
+        "users",
+        "u_100"
+      ]
+    }
+  },
+  {
+    "id": "t037",
+    "instruction": "Lookup users u_100 in the database (case 5).",
+    "expectedTools": [
+      "query_db"
+    ],
+    "mustIncludeArgs": {
+      "query_db": [
+        "users",
+        "u_100"
+      ]
+    }
+  },
+  {
+    "id": "t038",
+    "instruction": "Lookup users u_100 in the database (case 6).",
+    "expectedTools": [
+      "query_db"
+    ],
+    "mustIncludeArgs": {
+      "query_db": [
+        "users",
+        "u_100"
+      ]
+    }
+  },
+  {
+    "id": "t039",
+    "instruction": "Lookup users u_100 in the database (case 7).",
+    "expectedTools": [
+      "query_db"
+    ],
+    "mustIncludeArgs": {
+      "query_db": [
+        "users",
+        "u_100"
+      ]
+    }
+  },
+  {
+    "id": "t040",
+    "instruction": "Lookup users u_100 in the database (case 8).",
+    "expectedTools": [
+      "query_db"
+    ],
+    "mustIncludeArgs": {
+      "query_db": [
+        "users",
+        "u_100"
+      ]
+    }
+  },
+  {
+    "id": "t041",
+    "instruction": "Lookup users u_100 in the database (case 9).",
+    "expectedTools": [
+      "query_db"
+    ],
+    "mustIncludeArgs": {
+      "query_db": [
+        "users",
+        "u_100"
+      ]
+    }
+  },
+  {
+    "id": "t042",
+    "instruction": "Lookup users u_100 in the database (case 10).",
+    "expectedTools": [
+      "query_db"
+    ],
+    "mustIncludeArgs": {
+      "query_db": [
+        "users",
+        "u_100"
+      ]
+    }
+  },
+  {
+    "id": "t043",
+    "instruction": "Lookup orders o_55 in the database (case 1).",
+    "expectedTools": [
+      "query_db"
+    ],
+    "mustIncludeArgs": {
+      "query_db": [
+        "orders",
+        "o_55"
+      ]
+    }
+  },
+  {
+    "id": "t044",
+    "instruction": "Lookup orders o_55 in the database (case 2).",
+    "expectedTools": [
+      "query_db"
+    ],
+    "mustIncludeArgs": {
+      "query_db": [
+        "orders",
+        "o_55"
+      ]
+    }
+  },
+  {
+    "id": "t045",
+    "instruction": "Lookup orders o_55 in the database (case 3).",
+    "expectedTools": [
+      "query_db"
+    ],
+    "mustIncludeArgs": {
+      "query_db": [
+        "orders",
+        "o_55"
+      ]
+    }
+  },
+  {
+    "id": "t046",
+    "instruction": "Lookup orders o_55 in the database (case 4).",
+    "expectedTools": [
+      "query_db"
+    ],
+    "mustIncludeArgs": {
+      "query_db": [
+        "orders",
+        "o_55"
+      ]
+    }
+  },
+  {
+    "id": "t047",
+    "instruction": "Lookup orders o_55 in the database (case 5).",
+    "expectedTools": [
+      "query_db"
+    ],
+    "mustIncludeArgs": {
+      "query_db": [
+        "orders",
+        "o_55"
+      ]
+    }
+  },
+  {
+    "id": "t048",
+    "instruction": "Lookup orders o_55 in the database (case 6).",
+    "expectedTools": [
+      "query_db"
+    ],
+    "mustIncludeArgs": {
+      "query_db": [
+        "orders",
+        "o_55"
+      ]
+    }
+  },
+  {
+    "id": "t049",
+    "instruction": "Lookup orders o_55 in the database (case 7).",
+    "expectedTools": [
+      "query_db"
+    ],
+    "mustIncludeArgs": {
+      "query_db": [
+        "orders",
+        "o_55"
+      ]
+    }
+  },
+  {
+    "id": "t050",
+    "instruction": "Lookup orders o_55 in the database (case 8).",
+    "expectedTools": [
+      "query_db"
+    ],
+    "mustIncludeArgs": {
+      "query_db": [
+        "orders",
+        "o_55"
+      ]
+    }
+  },
+  {
+    "id": "t051",
+    "instruction": "Lookup orders o_55 in the database (case 9).",
+    "expectedTools": [
+      "query_db"
+    ],
+    "mustIncludeArgs": {
+      "query_db": [
+        "orders",
+        "o_55"
+      ]
+    }
+  },
+  {
+    "id": "t052",
+    "instruction": "Lookup orders o_55 in the database (case 10).",
+    "expectedTools": [
+      "query_db"
+    ],
+    "mustIncludeArgs": {
+      "query_db": [
+        "orders",
+        "o_55"
+      ]
+    }
+  },
+  {
+    "id": "t053",
+    "instruction": "Draft an email to riya@example.com about order follow-up #1.",
+    "expectedTools": [
+      "draft_email"
+    ],
+    "mustIncludeArgs": {
+      "draft_email": [
+        "riya@example.com"
+      ]
+    }
+  },
+  {
+    "id": "t054",
+    "instruction": "Draft an email to riya@example.com about order follow-up #2.",
+    "expectedTools": [
+      "draft_email"
+    ],
+    "mustIncludeArgs": {
+      "draft_email": [
+        "riya@example.com"
+      ]
+    }
+  },
+  {
+    "id": "t055",
+    "instruction": "Draft an email to riya@example.com about order follow-up #3.",
+    "expectedTools": [
+      "draft_email"
+    ],
+    "mustIncludeArgs": {
+      "draft_email": [
+        "riya@example.com"
+      ]
+    }
+  },
+  {
+    "id": "t056",
+    "instruction": "Draft an email to riya@example.com about order follow-up #4.",
+    "expectedTools": [
+      "draft_email"
+    ],
+    "mustIncludeArgs": {
+      "draft_email": [
+        "riya@example.com"
+      ]
+    }
+  },
+  {
+    "id": "t057",
+    "instruction": "Draft an email to riya@example.com about order follow-up #5.",
+    "expectedTools": [
+      "draft_email"
+    ],
+    "mustIncludeArgs": {
+      "draft_email": [
+        "riya@example.com"
+      ]
+    }
+  },
+  {
+    "id": "t058",
+    "instruction": "Draft an email to riya@example.com about order follow-up #6.",
+    "expectedTools": [
+      "draft_email"
+    ],
+    "mustIncludeArgs": {
+      "draft_email": [
+        "riya@example.com"
+      ]
+    }
+  },
+  {
+    "id": "t059",
+    "instruction": "Draft an email to riya@example.com about order follow-up #7.",
+    "expectedTools": [
+      "draft_email"
+    ],
+    "mustIncludeArgs": {
+      "draft_email": [
+        "riya@example.com"
+      ]
+    }
+  },
+  {
+    "id": "t060",
+    "instruction": "Draft an email to riya@example.com about order follow-up #8.",
+    "expectedTools": [
+      "draft_email"
+    ],
+    "mustIncludeArgs": {
+      "draft_email": [
+        "riya@example.com"
+      ]
+    }
+  },
+  {
+    "id": "t061",
+    "instruction": "Draft an email to riya@example.com about order follow-up #9.",
+    "expectedTools": [
+      "draft_email"
+    ],
+    "mustIncludeArgs": {
+      "draft_email": [
+        "riya@example.com"
+      ]
+    }
+  },
+  {
+    "id": "t062",
+    "instruction": "Draft an email to riya@example.com about order follow-up #10.",
+    "expectedTools": [
+      "draft_email"
+    ],
+    "mustIncludeArgs": {
+      "draft_email": [
+        "riya@example.com"
+      ]
+    }
+  },
+  {
+    "id": "t063",
+    "instruction": "Draft an email to riya@example.com about order follow-up #11.",
+    "expectedTools": [
+      "draft_email"
+    ],
+    "mustIncludeArgs": {
+      "draft_email": [
+        "riya@example.com"
+      ]
+    }
+  },
+  {
+    "id": "t064",
+    "instruction": "Draft an email to riya@example.com about order follow-up #12.",
+    "expectedTools": [
+      "draft_email"
+    ],
+    "mustIncludeArgs": {
+      "draft_email": [
+        "riya@example.com"
+      ]
+    }
+  },
+  {
+    "id": "t065",
+    "instruction": "Read refund docs, fetch users u_100, and email riya@example.com a short summary (combo 1).",
+    "expectedTools": [
+      "search_docs",
+      "query_db",
+      "draft_email"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "refund"
+      ],
+      "query_db": [
+        "users",
+        "u_100"
+      ],
+      "draft_email": [
+        "riya@example.com"
+      ]
+    }
+  },
+  {
+    "id": "t066",
+    "instruction": "Read pgvector docs, fetch orders o_55, and email riya@example.com a short summary (combo 2).",
+    "expectedTools": [
+      "search_docs",
+      "query_db",
+      "draft_email"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "pgvector"
+      ],
+      "query_db": [
+        "orders",
+        "o_55"
+      ],
+      "draft_email": [
+        "riya@example.com"
+      ]
+    }
+  },
+  {
+    "id": "t067",
+    "instruction": "Read retry docs, fetch users u_100, and email riya@example.com a short summary (combo 3).",
+    "expectedTools": [
+      "search_docs",
+      "query_db",
+      "draft_email"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "retries"
+      ],
+      "query_db": [
+        "users",
+        "u_100"
+      ],
+      "draft_email": [
+        "riya@example.com"
+      ]
+    }
+  },
+  {
+    "id": "t068",
+    "instruction": "Read sla docs, fetch orders o_55, and email riya@example.com a short summary (combo 4).",
+    "expectedTools": [
+      "search_docs",
+      "query_db",
+      "draft_email"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "sla"
+      ],
+      "query_db": [
+        "orders",
+        "o_55"
+      ],
+      "draft_email": [
+        "riya@example.com"
+      ]
+    }
+  },
+  {
+    "id": "t069",
+    "instruction": "Read refund docs, fetch users u_100, and email riya@example.com a short summary (combo 5).",
+    "expectedTools": [
+      "search_docs",
+      "query_db",
+      "draft_email"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "refund"
+      ],
+      "query_db": [
+        "users",
+        "u_100"
+      ],
+      "draft_email": [
+        "riya@example.com"
+      ]
+    }
+  },
+  {
+    "id": "t070",
+    "instruction": "Read pgvector docs, fetch orders o_55, and email riya@example.com a short summary (combo 6).",
+    "expectedTools": [
+      "search_docs",
+      "query_db",
+      "draft_email"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "pgvector"
+      ],
+      "query_db": [
+        "orders",
+        "o_55"
+      ],
+      "draft_email": [
+        "riya@example.com"
+      ]
+    }
+  },
+  {
+    "id": "t071",
+    "instruction": "Read retry docs, fetch users u_100, and email riya@example.com a short summary (combo 7).",
+    "expectedTools": [
+      "search_docs",
+      "query_db",
+      "draft_email"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "retries"
+      ],
+      "query_db": [
+        "users",
+        "u_100"
+      ],
+      "draft_email": [
+        "riya@example.com"
+      ]
+    }
+  },
+  {
+    "id": "t072",
+    "instruction": "Read sla docs, fetch orders o_55, and email riya@example.com a short summary (combo 8).",
+    "expectedTools": [
+      "search_docs",
+      "query_db",
+      "draft_email"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "sla"
+      ],
+      "query_db": [
+        "orders",
+        "o_55"
+      ],
+      "draft_email": [
+        "riya@example.com"
+      ]
+    }
+  },
+  {
+    "id": "t073",
+    "instruction": "Read refund docs, fetch users u_100, and email riya@example.com a short summary (combo 9).",
+    "expectedTools": [
+      "search_docs",
+      "query_db",
+      "draft_email"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "refund"
+      ],
+      "query_db": [
+        "users",
+        "u_100"
+      ],
+      "draft_email": [
+        "riya@example.com"
+      ]
+    }
+  },
+  {
+    "id": "t074",
+    "instruction": "Read pgvector docs, fetch orders o_55, and email riya@example.com a short summary (combo 10).",
+    "expectedTools": [
+      "search_docs",
+      "query_db",
+      "draft_email"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "pgvector"
+      ],
+      "query_db": [
+        "orders",
+        "o_55"
+      ],
+      "draft_email": [
+        "riya@example.com"
+      ]
+    }
+  },
+  {
+    "id": "t075",
+    "instruction": "Read retry docs, fetch users u_100, and email riya@example.com a short summary (combo 11).",
+    "expectedTools": [
+      "search_docs",
+      "query_db",
+      "draft_email"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "retries"
+      ],
+      "query_db": [
+        "users",
+        "u_100"
+      ],
+      "draft_email": [
+        "riya@example.com"
+      ]
+    }
+  },
+  {
+    "id": "t076",
+    "instruction": "Read sla docs, fetch orders o_55, and email riya@example.com a short summary (combo 12).",
+    "expectedTools": [
+      "search_docs",
+      "query_db",
+      "draft_email"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "sla"
+      ],
+      "query_db": [
+        "orders",
+        "o_55"
+      ],
+      "draft_email": [
+        "riya@example.com"
+      ]
+    }
+  },
+  {
+    "id": "t077",
+    "instruction": "Read refund docs, fetch users u_100, and email riya@example.com a short summary (combo 13).",
+    "expectedTools": [
+      "search_docs",
+      "query_db",
+      "draft_email"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "refund"
+      ],
+      "query_db": [
+        "users",
+        "u_100"
+      ],
+      "draft_email": [
+        "riya@example.com"
+      ]
+    }
+  },
+  {
+    "id": "t078",
+    "instruction": "Read pgvector docs, fetch orders o_55, and email riya@example.com a short summary (combo 14).",
+    "expectedTools": [
+      "search_docs",
+      "query_db",
+      "draft_email"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "pgvector"
+      ],
+      "query_db": [
+        "orders",
+        "o_55"
+      ],
+      "draft_email": [
+        "riya@example.com"
+      ]
+    }
+  },
+  {
+    "id": "t079",
+    "instruction": "Read retry docs, fetch users u_100, and email riya@example.com a short summary (combo 15).",
+    "expectedTools": [
+      "search_docs",
+      "query_db",
+      "draft_email"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "retries"
+      ],
+      "query_db": [
+        "users",
+        "u_100"
+      ],
+      "draft_email": [
+        "riya@example.com"
+      ]
+    }
+  },
+  {
+    "id": "t080",
+    "instruction": "Read sla docs, fetch orders o_55, and email riya@example.com a short summary (combo 16).",
+    "expectedTools": [
+      "search_docs",
+      "query_db",
+      "draft_email"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "sla"
+      ],
+      "query_db": [
+        "orders",
+        "o_55"
+      ],
+      "draft_email": [
+        "riya@example.com"
+      ]
+    }
+  },
+  {
+    "id": "t081",
+    "instruction": "Read refund docs, fetch users u_100, and email riya@example.com a short summary (combo 17).",
+    "expectedTools": [
+      "search_docs",
+      "query_db",
+      "draft_email"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "refund"
+      ],
+      "query_db": [
+        "users",
+        "u_100"
+      ],
+      "draft_email": [
+        "riya@example.com"
+      ]
+    }
+  },
+  {
+    "id": "t082",
+    "instruction": "Read pgvector docs, fetch orders o_55, and email riya@example.com a short summary (combo 18).",
+    "expectedTools": [
+      "search_docs",
+      "query_db",
+      "draft_email"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "pgvector"
+      ],
+      "query_db": [
+        "orders",
+        "o_55"
+      ],
+      "draft_email": [
+        "riya@example.com"
+      ]
+    }
+  },
+  {
+    "id": "t083",
+    "instruction": "Read retry docs, fetch users u_100, and email riya@example.com a short summary (combo 19).",
+    "expectedTools": [
+      "search_docs",
+      "query_db",
+      "draft_email"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "retries"
+      ],
+      "query_db": [
+        "users",
+        "u_100"
+      ],
+      "draft_email": [
+        "riya@example.com"
+      ]
+    }
+  },
+  {
+    "id": "t084",
+    "instruction": "Read sla docs, fetch orders o_55, and email riya@example.com a short summary (combo 20).",
+    "expectedTools": [
+      "search_docs",
+      "query_db",
+      "draft_email"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "sla"
+      ],
+      "query_db": [
+        "orders",
+        "o_55"
+      ],
+      "draft_email": [
+        "riya@example.com"
+      ]
+    }
+  },
+  {
+    "id": "t085",
+    "instruction": "Documentation check: refund details request 84.",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "refund"
+      ]
+    }
+  },
+  {
+    "id": "t086",
+    "instruction": "Documentation check: pgvector details request 85.",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "pgvector"
+      ]
+    }
+  },
+  {
+    "id": "t087",
+    "instruction": "Documentation check: retry details request 86.",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "retries"
+      ]
+    }
+  },
+  {
+    "id": "t088",
+    "instruction": "Documentation check: sla details request 87.",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "sla"
+      ]
+    }
+  },
+  {
+    "id": "t089",
+    "instruction": "Documentation check: refund details request 88.",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "refund"
+      ]
+    }
+  },
+  {
+    "id": "t090",
+    "instruction": "Documentation check: pgvector details request 89.",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "pgvector"
+      ]
+    }
+  },
+  {
+    "id": "t091",
+    "instruction": "Documentation check: retry details request 90.",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "retries"
+      ]
+    }
+  },
+  {
+    "id": "t092",
+    "instruction": "Documentation check: sla details request 91.",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "sla"
+      ]
+    }
+  },
+  {
+    "id": "t093",
+    "instruction": "Documentation check: refund details request 92.",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "refund"
+      ]
+    }
+  },
+  {
+    "id": "t094",
+    "instruction": "Documentation check: pgvector details request 93.",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "pgvector"
+      ]
+    }
+  },
+  {
+    "id": "t095",
+    "instruction": "Documentation check: retry details request 94.",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "retries"
+      ]
+    }
+  },
+  {
+    "id": "t096",
+    "instruction": "Documentation check: sla details request 95.",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "sla"
+      ]
+    }
+  },
+  {
+    "id": "t097",
+    "instruction": "Documentation check: refund details request 96.",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "refund"
+      ]
+    }
+  },
+  {
+    "id": "t098",
+    "instruction": "Documentation check: pgvector details request 97.",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "pgvector"
+      ]
+    }
+  },
+  {
+    "id": "t099",
+    "instruction": "Documentation check: retry details request 98.",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "retries"
+      ]
+    }
+  },
+  {
+    "id": "t100",
+    "instruction": "Documentation check: sla details request 99.",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "sla"
+      ]
+    }
+  },
+  {
+    "id": "t101",
+    "instruction": "Documentation check: refund details request 100.",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "refund"
+      ]
+    }
+  },
+  {
+    "id": "t102",
+    "instruction": "Documentation check: pgvector details request 101.",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "pgvector"
+      ]
+    }
+  },
+  {
+    "id": "t103",
+    "instruction": "Documentation check: retry details request 102.",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "retries"
+      ]
+    }
+  },
+  {
+    "id": "t104",
+    "instruction": "Documentation check: sla details request 103.",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "sla"
+      ]
+    }
+  },
+  {
+    "id": "t105",
+    "instruction": "Documentation check: refund details request 104.",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "refund"
+      ]
+    }
+  },
+  {
+    "id": "t106",
+    "instruction": "Documentation check: pgvector details request 105.",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "pgvector"
+      ]
+    }
+  },
+  {
+    "id": "t107",
+    "instruction": "Documentation check: retry details request 106.",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "retries"
+      ]
+    }
+  },
+  {
+    "id": "t108",
+    "instruction": "Documentation check: sla details request 107.",
+    "expectedTools": [
+      "search_docs"
+    ],
+    "mustIncludeArgs": {
+      "search_docs": [
+        "sla"
+      ]
+    }
+  }
+]
